@@ -24,7 +24,7 @@ function quiz(question, answer){
 			else console.log("Your current score is 0!")
     } 
 }
-//
+
 var data = [{
   question: "Whats my fav sport? ",
   answer: "BADMINTON"
